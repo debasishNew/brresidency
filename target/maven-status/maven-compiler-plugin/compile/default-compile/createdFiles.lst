@@ -1,0 +1,8 @@
+com\brresidency\service\IUserService.class
+com\brresidency\controller\UserController.class
+com\brresidency\persister\IUserPersister.class
+com\brresidency\service\UserService.class
+com\brresidency\persister\AbstractDAO.class
+com\brresidency\persister\HibernateUtil.class
+com\brresidency\persister\UserPersisterImpl.class
+com\brresidency\model\User.class

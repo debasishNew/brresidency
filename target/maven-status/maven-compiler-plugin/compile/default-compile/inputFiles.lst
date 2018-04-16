@@ -1,0 +1,8 @@
+H:\practice\web\src\main\java\com\brresidency\model\User.java
+H:\practice\web\src\main\java\com\brresidency\service\IUserService.java
+H:\practice\web\src\main\java\com\brresidency\controller\UserController.java
+H:\practice\web\src\main\java\com\brresidency\persister\AbstractDAO.java
+H:\practice\web\src\main\java\com\brresidency\persister\UserPersisterImpl.java
+H:\practice\web\src\main\java\com\brresidency\persister\IUserPersister.java
+H:\practice\web\src\main\java\com\brresidency\service\UserService.java
+H:\practice\web\src\main\java\com\brresidency\persister\HibernateUtil.java
