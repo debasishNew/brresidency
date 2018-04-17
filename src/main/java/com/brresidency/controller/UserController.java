@@ -27,7 +27,7 @@ public class UserController {
     
 	@RequestMapping(value="getHomePage",method=RequestMethod.GET)
 	public String getHomePage(HttpServletRequest request){
-		log.info("entering getHomePage()");
+		log.info("entering getHomePage11()");
 		log.info("exiting getHomePage()");
 		return "welcome";
 	}
